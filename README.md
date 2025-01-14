@@ -24,3 +24,4 @@
     - `localhost`
     - `port`
     - `db_name`
+4. Запускать проект из файла `main.py`
